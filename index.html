@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="sara.and___ の旅の記録。">
+  <meta name="description" content="sora.and___ の旅の記録。">
   <meta name="theme-color" content="#b9ddea">
-  <title>sara.and___ | travel log</title>
+  <title>sora.and___ | travel log</title>
   <style>
     :root{--ink:#28383e;--muted:#75868d;--paper:#f6f6f1;--line:rgba(40,56,62,.12)}
     *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:"Hiragino Kaku Gothic ProN","Yu Gothic","Noto Sans JP",system-ui,sans-serif;-webkit-font-smoothing:antialiased}a{color:inherit;text-decoration:none}button{font:inherit}
@@ -20,9 +20,9 @@
   </style>
 </head>
 <body>
-  <header class="site-header"><a class="account-name" href="#top">sara.and___</a><a class="instagram-link" href="https://www.instagram.com/sara.and___/" target="_blank" rel="noreferrer">Instagram ↗</a></header>
+  <header class="site-header"><a class="account-name" href="#top">sora.and___</a><a class="instagram-link" href="https://www.instagram.com/sora.and___/" target="_blank" rel="noreferrer">Instagram ↗</a></header>
   <main>
-    <section class="hero" id="top"><div class="hero-slides" aria-hidden="true"><img class="hero-slide palace" src="travel-slides/palace.webp" alt=""><img class="hero-slide sea-room" src="travel-slides/sea-room.webp" alt=""><img class="hero-slide forest-track" src="travel-slides/forest-track.webp" alt=""><img class="hero-slide steam-valley" src="travel-slides/steam-valley.webp" alt=""><img class="hero-slide jiufen" src="travel-slides/jiufen.webp" alt=""></div><div class="hero-content"><p>sara.and___</p><h1>travel log</h1></div></section>
+    <section class="hero" id="top"><div class="hero-slides" aria-hidden="true"><img class="hero-slide palace" src="travel-slides/palace.webp" alt=""><img class="hero-slide sea-room" src="travel-slides/sea-room.webp" alt=""><img class="hero-slide forest-track" src="travel-slides/forest-track.webp" alt=""><img class="hero-slide steam-valley" src="travel-slides/steam-valley.webp" alt=""><img class="hero-slide jiufen" src="travel-slides/jiufen.webp" alt=""></div><div class="hero-content"><p>sora.and___</p><h1>travel log</h1></div></section>
     <section class="journeys-section">
       <div class="section-top"><h2>places i've been</h2><span>6 trips</span></div>
       <div class="filter-row" role="group" aria-label="旅行を地域で絞り込む"><button class="active" data-filter="すべて" aria-pressed="true">all</button><button data-filter="国内" aria-pressed="false">japan</button><button data-filter="海外" aria-pressed="false">abroad</button><button data-filter="東京" aria-pressed="false">tokyo</button></div>
@@ -36,7 +36,7 @@
       </div>
     </section>
   </main>
-  <footer><span>sara.and___</span><a href="https://www.instagram.com/sara.and___/" target="_blank" rel="noreferrer">Instagram ↗</a></footer>
+  <footer><span>sora.and___</span><a href="https://www.instagram.com/sora.and___/" target="_blank" rel="noreferrer">Instagram ↗</a></footer>
   <script>
     const buttons=[...document.querySelectorAll('[data-filter]')],cards=[...document.querySelectorAll('[data-area]')];
     buttons.forEach(button=>button.addEventListener('click',()=>{const filter=button.dataset.filter;buttons.forEach(item=>{const active=item===button;item.classList.toggle('active',active);item.setAttribute('aria-pressed',String(active))});cards.forEach(card=>{card.hidden=filter!=='すべて'&&card.dataset.area!==filter})}));
