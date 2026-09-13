@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 570" role="img" aria-labelledby="title desc">
+<title id="title">那須から宇都宮へ、エリアの位置関係</title><desc id="desc">那須高原の訪問先、南西の那須千本松牧場、その南の宇都宮。北が上の概略図で縮尺は一定ではありません。</desc>
+<rect width="560" height="570" rx="5" fill="#f6f7ee"/>
+<g font-family="Arial,'Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif">
+<text x="28" y="37" fill="#687c64" font-size="13" letter-spacing="2">NASU → UTSUNOMIYA</text>
+<path d="M514 62V27m-6 9 6-9 6 9" fill="none" stroke="#526950" stroke-width="1.7"/><text x="508" y="81" fill="#526950" font-size="13">N</text>
+<rect x="140" y="94" width="390" height="214" rx="16" fill="#e3eadc" stroke="#c8d4bd" stroke-dasharray="5 5"/>
+<text x="163" y="125" font-size="21" fill="#294737">那須高原周辺</text><text x="163" y="149" font-size="13" fill="#63775d">NASU / DAY 1 &amp; DAY 2</text>
+<g font-size="16" fill="#38513b"><text x="164" y="183">ペニーレイン</text><text x="164" y="209">那須バギーパーク</text><text x="164" y="235">あ・かうはーど</text><text x="164" y="261">りんどう湖ファミリー牧場</text><text x="164" y="287">GOOD NEWS</text></g>
+<text x="30" y="210" transform="rotate(-90 30 210)" fill="#8a9c82" font-size="12" letter-spacing="3">TOCHIGI, JAPAN</text>
+<path d="M200 309Q200 343 157 355" fill="none" stroke="#627e58" stroke-width="3" stroke-dasharray="5 6"/>
+<circle cx="143" cy="360" r="8" fill="#476748" stroke="#f6f7ee" stroke-width="3"/>
+<text x="163" y="364" font-size="21" fill="#294737">那須千本松牧場</text><text x="163" y="390" font-size="13" fill="#63775d">NASUSHIOBARA / 那須塩原市</text>
+<path d="M140 372Q126 410 138 445" fill="none" stroke="#627e58" stroke-width="3" stroke-dasharray="5 6"/>
+<circle cx="142" cy="461" r="8" fill="#ac833d" stroke="#f6f7ee" stroke-width="3"/>
+<text x="163" y="466" font-size="21" fill="#294737">宇都宮・来らっせ</text><text x="163" y="492" font-size="13" fill="#63775d">UTSUNOMIYA / 餃子の寄り道</text>
+<path d="M142 474v55m-5-7 5 7 5-7" stroke="#627e58" stroke-width="2" fill="none"/><text x="163" y="533" fill="#526950" font-size="15">東京へ</text>
+<text x="361" y="547" fill="#75846b" font-size="12">エリア概略図 / 縮尺なし</text>
+</g></svg>
