@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 600" role="img" aria-labelledby="t d">
+<title id="t">パタヤとラン島の位置関係</title><desc id="d">北が上。ラン島はパタヤ市街の西の海上。サンクチュアリーは市街の北、サイアムベイショアとスカイギャラリーは市街南部、ジョムティエンのバス停はその南、ケーブビーチクラブはさらに南のナージョムティエンにある。縮尺と海岸線を簡略化したエリア図。</desc>
+<rect width="560" height="600" rx="3" fill="#dcecef"/>
+<path d="M310 0H560V600H475C471 560 453 530 438 495S414 434 387 414S360 372 348 351S334 324 319 326S290 313 298 291S326 265 330 236S313 214 307 192S294 143 301 119S326 86 312 65S301 24 310 0Z" fill="#f7f4e9" stroke="#b1ccce" stroke-width="2"/>
+<path d="M111 282C134 266 156 283 157 302S171 340 155 367S128 403 116 385S96 357 101 334S96 301 111 282Z" fill="#f7f4e9" stroke="#b1ccce" stroke-width="2"/>
+<g stroke="#c6dde0" stroke-width="1" fill="none"><path d="M39 180q20-11 40 0t40 0M50 442q20-11 40 0t40 0M207 483q20-11 40 0t40 0M180 216q20-11 40 0t40 0"/></g>
+<g font-family="Arial,sans-serif" fill="#6d8d94"><text x="35" y="48" font-size="12" letter-spacing="2">PATTAYA &amp; KOH LARN</text><path d="M513 58V29m0 0-5 8m5-8 5 8" stroke="#537b85" fill="none" stroke-width="1.5"/><text x="508" y="20" font-size="12">N</text><text x="49" y="240" font-size="12" letter-spacing="3">GULF OF</text><text x="49" y="258" font-size="12" letter-spacing="3">THAILAND</text></g>
+<path d="M164 316C212 297 254 301 299 319" stroke="#4b8795" stroke-width="2" stroke-dasharray="5 6" fill="none"/>
+<g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Arial,sans-serif" fill="#254c57">
+<text x="22" y="405" font-size="20">ラン島</text><text x="22" y="425" font-size="12" fill="#6d8d94">KOH LARN</text>
+<circle cx="115" cy="301" r="5" fill="#d89068"/><path d="M110 300H29" stroke="#9dada6"/><text x="25" y="286" font-size="13">ターウェンビーチ</text>
+<rect x="180" y="329" width="104" height="26" rx="13" fill="#e9f4f4"/><text x="232" y="347" font-size="12" text-anchor="middle">高速ボートで往復</text>
+<circle cx="306" cy="100" r="6" fill="#d89068" stroke="#fff" stroke-width="3"/><path d="M313 100H332" stroke="#9dada6"/><text x="337" y="94" font-size="14">サンクチュアリー・</text><text x="337" y="114" font-size="14">オブ・トゥルース</text><text x="337" y="134" font-size="11" fill="#6d8d94">NA KLUEA / NORTH</text>
+<circle cx="327" cy="223" r="5" fill="#497f8c"/><text x="345" y="228" font-size="14">Horizon</text><text x="346" y="248" font-size="11" fill="#6d8d94">CENTRAL PATTAYA</text>
+<circle cx="311" cy="301" r="5" fill="#497f8c"/><path d="M317 301H332" stroke="#9dada6"/><text x="337" y="296" font-size="14">Siam Bayshore</text><text x="337" y="315" font-size="12" fill="#6d8d94">今回のホテル</text>
+<circle cx="299" cy="329" r="5" fill="#497f8c"/><path d="M303 333 333 348" stroke="#9dada6"/><text x="337" y="355" font-size="14">The Sky Gallery</text>
+<circle cx="355" cy="384" r="5" fill="#497f8c"/><text x="374" y="384" font-size="13">Jomtien</text><text x="374" y="402" font-size="13">Bus Station</text>
+<circle cx="460" cy="543" r="6" fill="#d89068" stroke="#fff" stroke-width="3"/><path d="M452 542H260" stroke="#9dada6"/><text x="258" y="526" font-size="15">Cave Beach Club</text><text x="258" y="565" font-size="11" fill="#6d8d94">NA JOMTIEN / SOUTH</text>
+</g>
+</svg>
